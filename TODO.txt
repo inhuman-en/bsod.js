@@ -1,0 +1,4 @@
+- show errors as red splat with contents (title, message, satcktrace)
+- ErrorView class (backbone view-like)
+- gruntfile: build(amd, common?), concat, uglify
+- README
